@@ -1,0 +1,1 @@
+Le but de cette activité est de mettre en pratique les notions acquises dans les deux premières parties de ce cours sur Git et Github.
